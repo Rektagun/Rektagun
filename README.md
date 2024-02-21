@@ -1,16 +1,41 @@
-### Hi there 👋
+<body background-color: black;>
 
-<!--
-**Rektagun/Rektagun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center" width="500px">
+</div>
+
+
+Hello, I'm Suryaprakash Khatri 👋
+
+
+<h4 align="center">
+  🔧 Technologies & Tools
+</h4>
+
+<br>
+
+<h4 align="center">
+Editors:  Neovim, Visual Studio Code <br>
+</h4>
+<h4 align="center">
+Web Development: MERN Stack <br>
+</h4>
+<h4 align="center">
+Operating Systems: Linux (Ubuntu) <br>
+</h4>
+<h4 align="center">
+Version Control: Git <br> 
+</h4>
+
+📚 Education <br>
+B.Tech. - Jaypee University of Engineering and Technology <br>
+[Guna, Madhya Pradesh] <br>
+May 2025<br>
+🌐 Connect with Me <br>
+khatrisurya.101202@gmail.com
+
+Feel free to reach out, and let's connect! <br>
+  
+</body>
