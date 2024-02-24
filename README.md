@@ -74,7 +74,7 @@
 </h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=unity,ps,pr,figma,lua,powershell&perline=6" />
+    <img src="https://skillicons.dev/icons?i=unity,ps,pr,figma,lua&perline=6" />
   </a>
 </p>
 
