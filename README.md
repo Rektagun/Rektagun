@@ -1,4 +1,4 @@
-<body background-color: black;>
+
 
 
 
@@ -7,27 +7,78 @@
 </div>
 
 
-Hello, I'm Suryaprakash Khatri 👋
 
-
-<h4 align="center">
-  🔧 Technologies & Tools
-</h4>
-
+<h2 align="center">
+  <b>
+    I'm Suryaprakash!
+  </b>
+</h2>
 <br>
 
-<h4 align="center">
-Editors:  Neovim, Visual Studio Code <br>
-</h4>
-<h4 align="center">
-Web Development: MERN Stack <br>
-</h4>
-<h4 align="center">
-Operating Systems: Linux (Ubuntu) <br>
-</h4>
-<h4 align="center">
-Version Control: Git <br> 
-</h4>
+
+
+
+<h3 align="center">
+  <b>
+    Editors: <br>
+  </b>
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,vim,vscode" />
+  </a>
+</p>
+
+<h3 align="center">
+  <b>
+    Programming Languages: <br>
+  </b>
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,js,lua" />
+  </a>
+</p>
+
+
+
+
+<h3 align="center">
+  <b>
+    Web Development Stack: <br>
+  </b>
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  </a>
+</p>
+
+<h3 align="center">
+  <b>
+    Version Control: <br>   
+  </b>
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git" />
+  </a>
+</p>
+
+
+<h3 align="center">
+  <b>
+    Favourite dibble dabble:
+  </b>
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,ps,pr,figma,lua,powershell&perline=6" />
+  </a>
+</p>
+
+
+
 
 📚 Education <br>
 B.Tech. - Jaypee University of Engineering and Technology <br>
@@ -37,5 +88,7 @@ May 2025<br>
 khatrisurya.101202@gmail.com
 
 Feel free to reach out, and let's connect! <br>
-  
-</body>
+
+<div align="center">
+   <img src="https://github.com/Rektagun/Rektagun/assets/99794571/f0566cf8-222d-45ef-9080-37b7a00c3492" width="160px"/>
+</div>
