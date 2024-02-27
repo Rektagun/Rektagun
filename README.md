@@ -20,12 +20,12 @@
 
 <h3 align="center">
   <b>
-    Editors: <br>
+    What I use: <br>
   </b>
 </h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode" />
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,git" />
   </a>
 </p>
 
@@ -55,28 +55,10 @@
   </a>
 </p>
 
-<h3 align="center">
-  <b>
-    Version Control: <br>   
-  </b>
-</h3>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=github,git" />
-  </a>
-</p>
 
+<!--     Favourite dibble dabble: -->
 
-<h3 align="center">
-  <b>
-    Favourite dibble dabble:
-  </b>
-</h3>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=unity,ps,pr,figma,lua&perline=6" />
-  </a>
-</p>
+<!--     <img src="https://skillicons.dev/icons?i=unity,ps,pr,figma,lua&perline=6" /> -->
 
 <h3 align="center">
   <b>
