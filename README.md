@@ -49,11 +49,11 @@
 <table>
 <tr>
 <td>
-Like me!
+Been here button!
   
-[<a href="https://github.com/rektagun/Readme-Like-Button/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
+[<a href="https://github.com/rektagun/Readme-Like-Button/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">🐮</a>]
   
-<sub><b><i>Like counter: 0</i></b></sub>
+<sub><b><i>Been here: 0</i></b></sub>
 
 </td>
 </tr>
