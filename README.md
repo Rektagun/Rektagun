@@ -44,21 +44,6 @@
 </p>
 <br>
 
-<div align=center>
-
-<table>
-<tr>
-<td>
-Been here button!
-  
-[<a href="https://github.com/rektagun/Readme-Like-Button/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">🐮</a>]
-  
-<sub><b><i>Been here: 0</i></b></sub>
-
-</td>
-</tr>
-</table>
-</div>
 
 <div align="center">
   
