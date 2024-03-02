@@ -44,17 +44,21 @@
 </p>
 <br>
 
-<table align="center">
+<div align=center>
+
+<table>
 <tr>
 <td>
 Like me!
-
-[<a href="https://github.com/Rektagun/Readme-Like-Button/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
-
+  
+[<a href="https://github.com/rektagun/Readme-Like-Button/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
+  
 <sub><b><i>Like counter: 0</i></b></sub>
 
-<hr size=15px color="ff5733" width=70%>
+</td>
+</tr>
 </table>
+</div>
 
 <div align="center">
   
