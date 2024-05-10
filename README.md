@@ -21,9 +21,9 @@
 </h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=neovim"/><br>
-    <img src="https://skillicons.dev/icons?i=cpp,lua,vim"/><br>
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/><br>
+    <img src="https://skillicons.dev/icons?i=cpp,lua,vim"/><br>
+    <img src="https://skillicons.dev/icons?i=neovim"/><br>
   </a>
 </p>
 
